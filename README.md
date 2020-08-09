@@ -1,4 +1,4 @@
-# Homework6
+# Weather Dashboard
 Weather Dashboard
 
 * Adding starting file
